@@ -1,0 +1,20 @@
+2024-05-27 08:59:36,551 -INFO [4, 5, 6, 7, 8, 9, 0]
+2024-05-27 09:00:03,466 -INFO [4, 5, 6, 7, 8, 9, 0]
+2024-05-27 09:01:14,231 -DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2024-05-27 09:01:14,288 -DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2024-05-27 09:01:34,070 -INFO I am inside the try block
+2024-05-27 09:01:34,070 -INFO inside the for loop, i = 4
+2024-05-27 09:01:34,071 -INFO checking the value of i
+2024-05-27 09:01:34,071 -INFO appending the value of i 4 =
+2024-05-27 09:01:34,071 -INFO inside the for loop, i = 5
+2024-05-27 09:01:34,071 -INFO inside the for loop, i = 6
+2024-05-27 09:01:34,071 -INFO checking the value of i
+2024-05-27 09:01:34,071 -INFO appending the value of i 6 =
+2024-05-27 09:01:34,071 -INFO inside the for loop, i = 7
+2024-05-27 09:01:34,071 -INFO inside the for loop, i = 8
+2024-05-27 09:01:34,071 -INFO checking the value of i
+2024-05-27 09:01:34,071 -INFO appending the value of i 8 =
+2024-05-27 09:01:34,071 -INFO inside the for loop, i = 9
+2024-05-27 09:01:34,071 -INFO inside the for loop, i = 0
+2024-05-27 09:01:34,072 -INFO checking the value of i
+2024-05-27 09:01:34,072 -INFO appending the value of i 0 =

@@ -1,0 +1,189 @@
+INFO:root:this is the start point of my program
+INFO:root:asking user to enter age
+INFO:root:user has entered the age
+INFO:root:I am checking the negative condition
+ERROR:root:user has entered negative value as age
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+INFO:root:this is the start point of my program
+INFO:root:asking user to enter age
+INFO:root:user has entered the age
+INFO:root:user has entered -2445 as age
+INFO:root:I am checking the negative condition
+ERROR:root:user has entered negative value as age
+INFO:root:this is the start point of my program
+INFO:root:asking user to enter age
+INFO:root:user has entered the age
+INFO:root:user has entered -455 as age
+INFO:root:I am checking the negative condition
+ERROR:root:user has entered negative value as age
+INFO:root:this is the start point of my program
+INFO:root:asking user to enter age
+INFO:root:user has entered the age
+INFO:root:user has entered -66 as age
+INFO:root:I am checking the negative condition
+ERROR:root:user has entered negative value as age
+2024-05-27 08:00:30,921
+2024-05-27 08:00:30,922
+2024-05-27 08:00:33,314
+2024-05-27 08:00:33,314
+2024-05-27 08:00:33,314
+2024-05-27 08:00:33,314
+2024-05-27 08:04:24,947
+2024-05-27 08:04:24,948
+2024-05-27 08:04:28,584
+2024-05-27 08:04:28,585
+2024-05-27 08:04:28,585
+2024-05-27 08:04:28,585
+2024-05-27 08:04:56,307 - this is the start point of my program
+2024-05-27 08:04:56,307 - asking user to enter age
+2024-05-27 08:04:59,503 - user has entered the age
+2024-05-27 08:04:59,503 - user has entered -789 as age
+2024-05-27 08:04:59,503 - I am checking the negative condition
+2024-05-27 08:04:59,503 - user has entered negative value as age
+2024-05-27 08:10:14,092 - this is the start point of my program
+2024-05-27 08:10:14,093 - asking user to enter age
+2024-05-27 08:10:17,668 - user has entered the age
+2024-05-27 08:10:17,669 - user has entered 88 as age
+2024-05-27 08:10:17,669 - Valid user
+2024-05-27 08:10:41,134 - INFO this is the start point of my program
+2024-05-27 08:10:41,134 - INFO asking user to enter age
+2024-05-27 08:10:45,109 - INFO user has entered the age
+2024-05-27 08:10:45,109 - INFO user has entered 745566985 as age
+2024-05-27 08:10:45,109 - INFO Valid user
+2024-05-27 08:44:49,401 - ERROR No such comm target registered: jupyter.widget.control
+2024-05-27 08:44:49,411 - WARNING No such comm: 72214588-fea8-4765-8aa6-c4457aa96a2c
+2024-05-27 08:44:49,411 - DEBUG Current comms: []
+2024-05-27 08:49:30,911 - DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2024-05-27 08:49:30,960 - DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2024-05-27 08:49:31,258 - DEBUG diff parser start
+2024-05-27 08:49:31,258 - DEBUG line_lengths old: 5; new: 5
+2024-05-27 08:49:31,258 - DEBUG -> code[equal] old[1:4] new[1:4]
+2024-05-27 08:49:31,259 - DEBUG copy old[3:3] new[1:3]
+2024-05-27 08:49:31,259 - DEBUG parse_part from 4 to 5 (to 4 in part parser)
+2024-05-27 08:49:31,259 - DEBUG -> code[replace] old[5:5] new[5:5]
+2024-05-27 08:49:31,259 - DEBUG diff parser end
+2024-05-27 08:49:33,964 - DEBUG diff parser start
+2024-05-27 08:49:33,965 - DEBUG line_lengths old: 5; new: 5
+2024-05-27 08:49:33,965 - DEBUG -> code[equal] old[1:4] new[1:4]
+2024-05-27 08:49:33,965 - DEBUG copy old[3:3] new[1:3]
+2024-05-27 08:49:33,965 - DEBUG parse_part from 4 to 5 (to 4 in part parser)
+2024-05-27 08:49:33,966 - DEBUG -> code[replace] old[5:5] new[5:5]
+2024-05-27 08:49:33,966 - DEBUG diff parser end
+2024-05-27 08:49:33,990 - DEBUG pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2024-05-27 08:49:34,004 - DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+2024-05-27 08:49:51,242 - DEBUG diff parser start
+2024-05-27 08:49:51,243 - DEBUG line_lengths old: 5; new: 5
+2024-05-27 08:49:51,243 - DEBUG -> code[equal] old[1:4] new[1:4]
+2024-05-27 08:49:51,243 - DEBUG copy old[3:3] new[1:3]
+2024-05-27 08:49:51,243 - DEBUG parse_part from 4 to 5 (to 4 in part parser)
+2024-05-27 08:49:51,244 - DEBUG -> code[replace] old[5:5] new[5:5]
+2024-05-27 08:49:51,244 - DEBUG diff parser end
+2024-05-27 08:49:54,181 - DEBUG diff parser start
+2024-05-27 08:49:54,181 - DEBUG line_lengths old: 5; new: 5
+2024-05-27 08:49:54,182 - DEBUG -> code[equal] old[1:4] new[1:4]
+2024-05-27 08:49:54,182 - DEBUG copy old[3:3] new[1:3]
+2024-05-27 08:49:54,182 - DEBUG parse_part from 4 to 5 (to 4 in part parser)
+2024-05-27 08:49:54,182 - DEBUG -> code[replace] old[5:5] new[5:5]
+2024-05-27 08:49:54,183 - DEBUG diff parser end
+2024-05-27 08:49:58,723 - DEBUG diff parser start
+2024-05-27 08:49:58,723 - DEBUG line_lengths old: 5; new: 5
+2024-05-27 08:49:58,723 - DEBUG -> code[equal] old[1:4] new[1:4]
+2024-05-27 08:49:58,723 - DEBUG copy old[3:3] new[1:3]
+2024-05-27 08:49:58,724 - DEBUG parse_part from 4 to 5 (to 4 in part parser)
+2024-05-27 08:49:58,724 - DEBUG -> code[replace] old[5:5] new[5:5]
+2024-05-27 08:49:58,724 - DEBUG diff parser end
+2024-05-27 08:50:03,652 - DEBUG diff parser start
+2024-05-27 08:50:03,652 - DEBUG line_lengths old: 5; new: 5
+2024-05-27 08:50:03,652 - DEBUG -> code[equal] old[1:4] new[1:4]
+2024-05-27 08:50:03,653 - DEBUG copy old[3:3] new[1:3]
+2024-05-27 08:50:03,653 - DEBUG parse_part from 4 to 5 (to 4 in part parser)
+2024-05-27 08:50:03,653 - DEBUG -> code[replace] old[5:5] new[5:5]
+2024-05-27 08:50:03,654 - DEBUG diff parser end
+2024-05-27 08:51:01,740 - DEBUG diff parser start
+2024-05-27 08:51:01,740 - DEBUG line_lengths old: 5; new: 9
+2024-05-27 08:51:01,740 - DEBUG -> code[equal] old[1:4] new[1:4]
+2024-05-27 08:51:01,740 - DEBUG copy old[3:3] new[1:3]
+2024-05-27 08:51:01,741 - DEBUG parse_part from 4 to 5 (to 5 in part parser)
+2024-05-27 08:51:01,741 - DEBUG -> code[replace] old[5:5] new[5:9]
+2024-05-27 08:51:01,742 - DEBUG parse_part from 6 to 9 (to 8 in part parser)
+2024-05-27 08:51:01,742 - DEBUG diff parser end
+2024-05-27 08:51:03,252 - DEBUG diff parser start
+2024-05-27 08:51:03,252 - DEBUG line_lengths old: 9; new: 9
+2024-05-27 08:51:03,252 - DEBUG -> code[equal] old[1:8] new[1:8]
+2024-05-27 08:51:03,252 - DEBUG copy old[3:6] new[1:6]
+2024-05-27 08:51:03,253 - DEBUG parse_part from 7 to 9 (to 8 in part parser)
+2024-05-27 08:51:03,253 - DEBUG -> code[replace] old[9:9] new[9:9]
+2024-05-27 08:51:03,253 - DEBUG diff parser end
+2024-05-27 08:51:36,452 - DEBUG diff parser start
+2024-05-27 08:51:36,452 - DEBUG line_lengths old: 9; new: 16
+2024-05-27 08:51:36,452 - DEBUG -> code[equal] old[1:8] new[1:8]
+2024-05-27 08:51:36,453 - DEBUG copy old[3:6] new[1:6]
+2024-05-27 08:51:36,453 - DEBUG parse_part from 7 to 9 (to 10 in part parser)
+2024-05-27 08:51:36,453 - DEBUG -> code[replace] old[9:9] new[9:16]
+2024-05-27 08:51:36,454 - DEBUG parse_part from 10 to 16 (to 15 in part parser)
+2024-05-27 08:51:36,454 - DEBUG diff parser end
+2024-05-27 08:51:38,357 - DEBUG diff parser start
+2024-05-27 08:51:38,358 - DEBUG line_lengths old: 16; new: 16
+2024-05-27 08:51:38,358 - DEBUG -> code[equal] old[1:15] new[1:15]
+2024-05-27 08:51:38,358 - DEBUG copy old[3:11] new[1:11]
+2024-05-27 08:51:38,358 - DEBUG parse_part from 12 to 13 (to 13 in part parser)
+2024-05-27 08:51:38,359 - DEBUG parse_part from 14 to 16 (to 15 in part parser)
+2024-05-27 08:51:38,359 - DEBUG -> code[replace] old[16:16] new[16:16]
+2024-05-27 08:51:38,359 - DEBUG diff parser end
+2024-05-27 08:52:44,733 - DEBUG diff parser start
+2024-05-27 08:52:44,733 - DEBUG line_lengths old: 16; new: 21
+2024-05-27 08:52:44,733 - DEBUG -> code[equal] old[1:15] new[1:15]
+2024-05-27 08:52:44,734 - DEBUG copy old[3:11] new[1:11]
+2024-05-27 08:52:44,734 - DEBUG parse_part from 12 to 13 (to 13 in part parser)
+2024-05-27 08:52:44,735 - DEBUG parse_part from 14 to 21 (to 20 in part parser)
+2024-05-27 08:52:44,735 - DEBUG -> code[replace] old[16:16] new[16:21]
+2024-05-27 08:52:44,735 - DEBUG diff parser end
+2024-05-27 08:52:46,710 - DEBUG diff parser start
+2024-05-27 08:52:46,710 - DEBUG line_lengths old: 21; new: 21
+2024-05-27 08:52:46,710 - DEBUG -> code[equal] old[1:20] new[1:20]
+2024-05-27 08:52:46,710 - DEBUG copy old[3:11] new[1:11]
+2024-05-27 08:52:46,711 - DEBUG parse_part from 12 to 13 (to 13 in part parser)
+2024-05-27 08:52:46,712 - DEBUG parse_part from 14 to 21 (to 20 in part parser)
+2024-05-27 08:52:46,712 - DEBUG -> code[replace] old[21:21] new[21:21]
+2024-05-27 08:52:46,712 - DEBUG diff parser end
+2024-05-27 08:54:28,508 - DEBUG diff parser start
+2024-05-27 08:54:28,508 - DEBUG line_lengths old: 21; new: 26
+2024-05-27 08:54:28,508 - DEBUG -> code[equal] old[1:20] new[1:20]
+2024-05-27 08:54:28,509 - DEBUG copy old[3:11] new[1:11]
+2024-05-27 08:54:28,509 - DEBUG parse_part from 12 to 13 (to 13 in part parser)
+2024-05-27 08:54:28,510 - DEBUG parse_part from 14 to 26 (to 25 in part parser)
+2024-05-27 08:54:28,510 - DEBUG -> code[replace] old[21:21] new[21:26]
+2024-05-27 08:54:28,511 - DEBUG diff parser end
+2024-05-27 08:54:30,368 - DEBUG diff parser start
+2024-05-27 08:54:30,368 - DEBUG line_lengths old: 26; new: 26
+2024-05-27 08:54:30,368 - DEBUG -> code[equal] old[1:25] new[1:25]
+2024-05-27 08:54:30,369 - DEBUG copy old[3:11] new[1:11]
+2024-05-27 08:54:30,369 - DEBUG parse_part from 12 to 13 (to 13 in part parser)
+2024-05-27 08:54:30,370 - DEBUG parse_part from 14 to 26 (to 25 in part parser)
+2024-05-27 08:54:30,370 - DEBUG -> code[replace] old[26:26] new[26:26]
+2024-05-27 08:54:30,371 - DEBUG diff parser end
+2024-05-27 08:55:05,508 - DEBUG diff parser start
+2024-05-27 08:55:05,509 - DEBUG line_lengths old: 26; new: 30
+2024-05-27 08:55:05,509 - DEBUG -> code[equal] old[1:25] new[1:25]
+2024-05-27 08:55:05,509 - DEBUG copy old[3:11] new[1:11]
+2024-05-27 08:55:05,509 - DEBUG parse_part from 12 to 13 (to 13 in part parser)
+2024-05-27 08:55:05,511 - DEBUG parse_part from 14 to 30 (to 29 in part parser)
+2024-05-27 08:55:05,511 - DEBUG -> code[replace] old[26:26] new[26:30]
+2024-05-27 08:55:05,511 - DEBUG diff parser end
+2024-05-27 08:55:07,306 - DEBUG diff parser start
+2024-05-27 08:55:07,307 - DEBUG line_lengths old: 30; new: 30
+2024-05-27 08:55:07,307 - DEBUG -> code[equal] old[1:29] new[1:29]
+2024-05-27 08:55:07,307 - DEBUG copy old[3:11] new[1:11]
+2024-05-27 08:55:07,308 - DEBUG parse_part from 12 to 13 (to 13 in part parser)
+2024-05-27 08:55:07,310 - DEBUG parse_part from 14 to 30 (to 29 in part parser)
+2024-05-27 08:55:07,310 - DEBUG -> code[replace] old[30:30] new[30:30]
+2024-05-27 08:55:07,310 - DEBUG diff parser end
+2024-05-27 08:55:55,120 - DEBUG diff parser start
+2024-05-27 08:55:55,121 - DEBUG line_lengths old: 30; new: 35
+2024-05-27 08:55:55,121 - DEBUG -> code[equal] old[1:29] new[1:29]
+2024-05-27 08:55:55,121 - DEBUG copy old[3:11] new[1:11]
+2024-05-27 08:55:55,122 - DEBUG parse_part from 12 to 13 (to 13 in part parser)
+2024-05-27 08:55:55,124 - DEBUG parse_part from 14 to 35 (to 34 in part parser)
+2024-05-27 08:55:55,124 - DEBUG -> code[replace] old[30:30] new[30:35]
+2024-05-27 08:55:55,124 - DEBUG diff parser end

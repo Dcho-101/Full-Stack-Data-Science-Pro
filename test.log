@@ -1,0 +1,9 @@
+INFO:root:store a message
+INFO:root:store a message
+WARNING:root:this is a warning message
+ERROR:root:this is a error message
+CRITICAL:root:this is a critical message
+INFO:root:this is the start point of my program
+INFO:root:asking user to enter age
+INFO:root:user has entered the age
+INFO:root:Valid user
